@@ -18,3 +18,13 @@ View this example [timeline](https://digital-humanities-toolkit.github.io/timeli
 ![timeline sample](timeline-example.png)
 
 
+## Contributors🙏
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
