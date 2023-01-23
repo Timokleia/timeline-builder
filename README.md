@@ -1,6 +1,6 @@
 ## Timeline Builder
 
-Use Timeline.js to build a timeline! With thanks to the Knight Lab at [NorthWestern University](https://timeline.knightlab.com/).
+Use Timeline.js to build a timeline ⌛️! With thanks to the Knight Lab at [NorthWestern University](https://timeline.knightlab.com/).
 
 While you can use a spreadsheet to build your timeline as per the docs, here's a sample of how to build your timeline using JSON.
 
